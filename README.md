@@ -10,4 +10,7 @@ added new line
 from tortoise Git
 2012/12/25 16:06
 ---------------------------
+from izmhr cygwin vim
+2012/12/25 17:40
+---------------------------
 
