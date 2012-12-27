@@ -28,4 +28,8 @@ this is first edit on the branch "toPushIzmhr"
 izmhr2 toPushIzmhr ブランチから統合後、初の書き込み
 2012/12/27 23:10
 ---------------------------
+izmhr2 tortoiseGitなら、なにげに日本語もだいじょうぶ！
+2012/12/27 23:57
+---------------------------
+
 
