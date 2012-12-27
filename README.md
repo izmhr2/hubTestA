@@ -25,3 +25,7 @@ from izmhr cygwin vim 3
 this is first edit on the branch "toPushIzmhr"
 2012/12/27 11:50
 ---------------------------
+izmhr2 toPushIzmhr ƒuƒ‰ƒ“ƒ`‚©‚ç“‡ŒãA‰‚Ì‘‚«‚İ
+2012/12/27 23:10
+---------------------------
+
