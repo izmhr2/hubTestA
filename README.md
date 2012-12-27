@@ -19,4 +19,6 @@ from izmhr cygwin vim
 from izmhr cygwin vim 2
 2012/12/25 17:55
 ---------------------------
-
+this is first edit on the branch "toPushIzmhr"
+2012/12/27 11:50
+---------------------------
